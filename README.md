@@ -6,11 +6,11 @@
 
 ### Hi there, I'm Dalim 👋
  Hi, I'm Dalim Jeong, a passionate Web Application Developer
-*  I am currently developing Web and Android Application using the Spring Boot Framework in Japan 
-*  I’m currently learning VR
+* 🔭 I am currently developing Web and Android Application using the Spring Boot Framework in Japan 
+* 🌱 I’m currently learning VR
 ####  Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongDalim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/endpoint?url=<URL>&style<STYLE>" alt="エビフライトライアングル" title="サンプル">
 	
 	
 <!--
