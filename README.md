@@ -4,17 +4,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongDalim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   </div>
 
-###  Dalim Jeong
- Hi, I'm Dalim Jeong, a passionate Web Application developer
+### Hi there, I'm Dalim 👋
+ Hi, I'm Dalim Jeong, a passionate Web Application Developer
 *  I am currently developing Web and Android Application using the Spring Boot Framework in Japan 
 *  I’m currently learning VR
-
-<br>
-<div align=center>
+####  Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongDalim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
-  </div>	
 	
 <!--
 **JeongDalim/JeongDalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
