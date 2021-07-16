@@ -9,6 +9,18 @@
 * 🔭 I am currently developing Web and Android Application using the Spring Boot Framework in Japan 
 * 🌱 I’m currently learning VR
 ####  Languages and Tools:
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSharp-7952B3?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/C-39ACE6?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongDalim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
 	
