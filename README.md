@@ -10,7 +10,6 @@
 * 🌱 I’m currently learning VR
 ####  Languages and Tools:
 
-<img src="https://img.shields.io/endpoint?url=<URL>&style<STYLE>" alt="エビフライトライアングル" title="サンプル">
 	
 	
 <!--
